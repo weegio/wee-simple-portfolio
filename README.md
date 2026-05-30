@@ -9,4 +9,4 @@ Portfolio for Dr. DATA, a doctor analyst bridging the gap between clinical medic
 
 ## How to View
 1. Clone the repository.
-2. Open `index.html` in your favorite web browser.
+2. Open `docs/index.html` in your favorite web browser.
